@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6eb8e10-a318-42fa-96a6-c9aeef527c56" name="Default Changelist" comment="" />
+    <list default="true" id="34656d62-77e4-4d11-927f-ae7494338e80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/jshen/ReverseLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24.SwapNodesInParis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../24.SwapNodesInParis/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,10 +28,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jshen/Swap.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jshen/ReverseLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="19" column="109" selection-start-line="19" selection-start-column="109" selection-end-line="19" selection-end-column="109" />
+            <state relative-caret-position="143">
+              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -48,7 +51,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jshen/Swap.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/ReverseLinkedList.java" />
       </list>
     </option>
   </component>
@@ -63,7 +66,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="814" />
+    <option name="height" value="821" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -71,22 +74,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="24.SwapNodesInParis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="24.SwapNodesInParis" type="462c0819:PsiDirectoryNode" />
+              <item name="206.ReverseLinkedList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="206.ReverseLinkedList" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="24.SwapNodesInParis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="24.SwapNodesInParis" type="462c0819:PsiDirectoryNode" />
+              <item name="206.ReverseLinkedList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="206.ReverseLinkedList" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="24.SwapNodesInParis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="24.SwapNodesInParis" type="462c0819:PsiDirectoryNode" />
+              <item name="206.ReverseLinkedList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="206.ReverseLinkedList" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -94,11 +97,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -115,7 +115,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="24.SwapNodesInParis" />
+      <module name="206.ReverseLinkedList" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -129,16 +129,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c6eb8e10-a318-42fa-96a6-c9aeef527c56" name="Default Changelist" comment="" />
-      <created>1586906262053</created>
+      <changelist id="34656d62-77e4-4d11-927f-ae7494338e80" name="Default Changelist" comment="" />
+      <created>1586962974019</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1586906262053</updated>
+      <updated>1586962974019</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="814" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="821" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -146,7 +146,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13018598" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -176,10 +176,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/Swap.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/ReverseLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="19" column="109" selection-start-line="19" selection-start-column="109" selection-end-line="19" selection-end-column="109" />
+        <state relative-caret-position="143">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
         </state>
       </provider>
     </entry>
