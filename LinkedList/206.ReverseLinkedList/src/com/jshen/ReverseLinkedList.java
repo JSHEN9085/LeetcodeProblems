@@ -21,9 +21,17 @@ public class ReverseLinkedList {
 //        return previous;
 //    }
 
+
     //recursion solution
     public ListNode reverseList(ListNode head) {
         if(head == null || head.next == null) return head;
+        return helper(head, null);
+    }
 
+    private ListNode helper(ListNode head, ListNode previous){
+        if(head == null) return previous;
+        ListNode next = head.next;
+        head.next = previous;
+        return helper(next, head);
     }
 }
