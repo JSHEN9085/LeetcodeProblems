@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c876bdc-9c30-4f71-af1d-a330158314c3" name="Default Changelist" comment="" />
+    <list default="true" id="9b386663-4759-44c5-859a-c3c11d46ee2f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/jshen/RemoveElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../83.RemoveDuplicatesFromSortedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../83.RemoveDuplicatesFromSortedList/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,17 +21,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            <state relative-caret-position="256">
+              <caret line="8" selection-start-line="7" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jshen/RemoveDuplicates.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jshen/RemoveElements.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="165">
+              <caret line="17" column="182" selection-start-line="17" selection-start-column="182" selection-end-line="17" selection-end-column="182" />
             </state>
           </provider>
         </entry>
@@ -48,7 +51,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jshen/RemoveDuplicates.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/RemoveElements.java" />
       </list>
     </option>
   </component>
@@ -71,22 +74,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="83.RemoveDuplicatesFromSortedList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="83.RemoveDuplicatesFromSortedList" type="462c0819:PsiDirectoryNode" />
+              <item name="203.RemoveLinkedListElements" type="b2602c69:ProjectViewProjectNode" />
+              <item name="203.RemoveLinkedListElements" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="83.RemoveDuplicatesFromSortedList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="83.RemoveDuplicatesFromSortedList" type="462c0819:PsiDirectoryNode" />
+              <item name="203.RemoveLinkedListElements" type="b2602c69:ProjectViewProjectNode" />
+              <item name="203.RemoveLinkedListElements" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="83.RemoveDuplicatesFromSortedList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="83.RemoveDuplicatesFromSortedList" type="462c0819:PsiDirectoryNode" />
+              <item name="203.RemoveLinkedListElements" type="b2602c69:ProjectViewProjectNode" />
+              <item name="203.RemoveLinkedListElements" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -94,11 +98,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -115,7 +115,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="83.RemoveDuplicatesFromSortedList" />
+      <module name="203.RemoveLinkedListElements" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -129,23 +129,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1c876bdc-9c30-4f71-af1d-a330158314c3" name="Default Changelist" comment="" />
-      <created>1586988682718</created>
+      <changelist id="9b386663-4759-44c5-859a-c3c11d46ee2f" name="Default Changelist" comment="" />
+      <created>1587050720088</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1586988682718</updated>
+      <updated>1587050720088</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="816" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14592275" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11158799" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -170,15 +171,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/jshen/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="256">
+          <caret line="8" selection-start-line="7" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/RemoveDuplicates.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/RemoveElements.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="165">
+          <caret line="17" column="182" selection-start-line="17" selection-start-column="182" selection-end-line="17" selection-end-column="182" />
         </state>
       </provider>
     </entry>
