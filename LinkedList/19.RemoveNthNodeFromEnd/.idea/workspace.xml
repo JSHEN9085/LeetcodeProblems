@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04c3b5c8-40d2-403c-a4c1-4615b18f07aa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jshen/RemoveNthNodeFromEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jshen/RemoveNthNodeFromEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24.SwapNodesInParis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../24.SwapNodesInParis/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemoveNthNodeFromEnd/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemoveNthNodeFromEnd/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemoveNthNodeFromEnd/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemoveNthNodeFromEnd/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemoveNthNodeFromEnd/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemoveNthNodeFromEnd/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemoveNthNodeFromEnd/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemoveNthNodeFromEnd/RemoveNthNodeFromEnd.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemoveNthNodeFromEnd/src/com/jshen/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemoveNthNodeFromEnd/src/com/jshen/RemoveNthNodeFromEnd.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,21 +22,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            <state relative-caret-position="64">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/19.RemoveNthNodeFromEnd.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/RemoveNthNodeFromEnd.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="207">
@@ -74,34 +87,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="RemoveNthNodeFromEnd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RemoveNthNodeFromEnd" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RemoveNthNodeFromEnd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RemoveNthNodeFromEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RemoveNthNodeFromEnd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RemoveNthNodeFromEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jshen" type="462c0819:PsiDirectoryNode" />
+              <item name="19.RemoveNthNodeFromEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="19.RemoveNthNodeFromEnd" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -118,7 +121,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="RemoveNthNodeFromEnd" />
+      <module name="19.RemoveNthNodeFromEnd" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -142,9 +145,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="816" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13948497" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14091559" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -172,19 +174,22 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jshen/RemoveNthNodeFromEnd.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="42" column="269" selection-start-line="42" selection-start-column="269" selection-end-line="42" selection-end-column="269" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19.RemoveNthNodeFromEnd.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
