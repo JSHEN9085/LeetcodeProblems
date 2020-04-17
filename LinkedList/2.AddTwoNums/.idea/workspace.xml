@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab4f0d2e-43e0-4668-9ace-07adf34902fb" name="Default Changelist" comment="" />
+    <list default="true" id="75689fbd-3c31-4f18-bcba-8bc1d8ed694e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/jshen/AddTwoNums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../141.LinkedListCycle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../141.LinkedListCycle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19.RemoveNthNodeFromEnd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../19.RemoveNthNodeFromEnd/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,10 +29,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jshen/LinkedListCycle.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jshen/AddTwoNums.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            <state relative-caret-position="-113">
+              <caret line="30" column="63" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -48,7 +52,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jshen/LinkedListCycle.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/AddTwoNums.java" />
       </list>
     </option>
   </component>
@@ -60,9 +64,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="816" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -70,23 +75,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="141.LinkedListCycle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="141.LinkedListCycle" type="462c0819:PsiDirectoryNode" />
+              <item name="2.AddTwoNums" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2.AddTwoNums" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="141.LinkedListCycle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="141.LinkedListCycle" type="462c0819:PsiDirectoryNode" />
+              <item name="2.AddTwoNums" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2.AddTwoNums" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="141.LinkedListCycle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="141.LinkedListCycle" type="462c0819:PsiDirectoryNode" />
+              <item name="2.AddTwoNums" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2.AddTwoNums" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -94,10 +97,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,7 +116,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="141.LinkedListCycle" />
+      <module name="2.AddTwoNums" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -128,11 +130,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ab4f0d2e-43e0-4668-9ace-07adf34902fb" name="Default Changelist" comment="" />
-      <created>1587140698300</created>
+      <changelist id="75689fbd-3c31-4f18-bcba-8bc1d8ed694e" name="Default Changelist" comment="" />
+      <created>1587150085318</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1587140698300</updated>
+      <updated>1587150085318</updated>
     </task>
     <servers />
   </component>
@@ -145,7 +147,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13948497" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10729614" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -175,10 +177,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/LinkedListCycle.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/AddTwoNums.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        <state relative-caret-position="-113">
+          <caret line="30" column="63" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
         </state>
       </provider>
     </entry>
