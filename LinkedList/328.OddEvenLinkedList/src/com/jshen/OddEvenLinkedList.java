@@ -11,6 +11,19 @@ public class OddEvenLinkedList {
 //Please note we are talking about the node number(position) and not the value in the nodes
 
     public ListNode oddEvenList(ListNode head) {
+        if(head == null || head.next == null) return head;
 
+        ListNode odd = head;
+        ListNode even = head.next;
+        ListNode continus = even;
+
+        while(even != null && even.next != null){ //even pointer is one position faster than odd, if even.next != null, odd.next.next != null for sure. by this while condition, even will be at the exact last node or null.
+            odd.next = odd.next.next;
+            even.next = even.next.next;
+            odd = odd.next;
+            even = even.next;
+        }
+        odd.next = continus;
+        return head;
     }
 }
