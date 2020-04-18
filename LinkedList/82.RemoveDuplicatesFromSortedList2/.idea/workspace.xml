@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75689fbd-3c31-4f18-bcba-8bc1d8ed694e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/jshen/AddTwoNums.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../141.LinkedListCycle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../141.LinkedListCycle/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../19.RemoveNthNodeFromEnd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../19.RemoveNthNodeFromEnd/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="763a6afd-7814-4b5e-831c-b665feb140a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/jshen/RemoveDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.AddTwoNums/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2.AddTwoNums/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,10 +28,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jshen/AddTwoNums.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jshen/RemoveDuplicate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-113">
-              <caret line="30" column="63" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
+            <state relative-caret-position="1024">
+              <caret line="32" column="85" selection-start-line="32" selection-start-column="85" selection-end-line="32" selection-end-column="85" />
             </state>
           </provider>
         </entry>
@@ -52,7 +51,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jshen/AddTwoNums.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/RemoveDuplicate.java" />
       </list>
     </option>
   </component>
@@ -75,21 +74,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="2.AddTwoNums" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2.AddTwoNums" type="462c0819:PsiDirectoryNode" />
+              <item name="82.RemoveDuplicatesFromSortedList2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="82.RemoveDuplicatesFromSortedList2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="2.AddTwoNums" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2.AddTwoNums" type="462c0819:PsiDirectoryNode" />
+              <item name="82.RemoveDuplicatesFromSortedList2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="82.RemoveDuplicatesFromSortedList2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="2.AddTwoNums" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2.AddTwoNums" type="462c0819:PsiDirectoryNode" />
+              <item name="82.RemoveDuplicatesFromSortedList2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="82.RemoveDuplicatesFromSortedList2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -97,7 +97,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -116,7 +115,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="2.AddTwoNums" />
+      <module name="82.RemoveDuplicatesFromSortedList2" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -130,11 +129,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="75689fbd-3c31-4f18-bcba-8bc1d8ed694e" name="Default Changelist" comment="" />
-      <created>1587150085318</created>
+      <changelist id="763a6afd-7814-4b5e-831c-b665feb140a6" name="Default Changelist" comment="" />
+      <created>1587222032205</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1587150085318</updated>
+      <updated>1587222032205</updated>
     </task>
     <servers />
   </component>
@@ -147,7 +146,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10729614" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13590844" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -177,10 +176,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/AddTwoNums.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/RemoveDuplicate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-113">
-          <caret line="30" column="63" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
+        <state relative-caret-position="1024">
+          <caret line="32" column="85" selection-start-line="32" selection-start-column="85" selection-end-line="32" selection-end-column="85" />
         </state>
       </provider>
     </entry>
