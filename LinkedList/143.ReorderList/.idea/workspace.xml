@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bedf53fc-2ee3-4d31-a8ba-25547bb9231d" name="Default Changelist" comment="" />
+    <list default="true" id="51c23fb4-8442-4b4a-8244-cb08c79d3ee0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/jshen/ReorderList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21.MergeTwoSortedLists/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../21.MergeTwoSortedLists/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../82.RemoveDuplicatesFromSortedList2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../82.RemoveDuplicatesFromSortedList2/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,10 +29,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jshen/MergeTwoSortedList.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jshen/ReorderList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            <state relative-caret-position="-273">
+              <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -48,7 +52,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jshen/MergeTwoSortedList.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/ReorderList.java" />
       </list>
     </option>
   </component>
@@ -57,12 +61,14 @@
       <list>
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
         <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/../../.idea/Leetcode.iml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="816" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -70,21 +76,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="21.MergeTwoSortedLists" type="b2602c69:ProjectViewProjectNode" />
-              <item name="21.MergeTwoSortedLists" type="462c0819:PsiDirectoryNode" />
+              <item name="143.ReorderList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="143.ReorderList" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="21.MergeTwoSortedLists" type="b2602c69:ProjectViewProjectNode" />
-              <item name="21.MergeTwoSortedLists" type="462c0819:PsiDirectoryNode" />
+              <item name="143.ReorderList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="143.ReorderList" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="21.MergeTwoSortedLists" type="b2602c69:ProjectViewProjectNode" />
-              <item name="21.MergeTwoSortedLists" type="462c0819:PsiDirectoryNode" />
+              <item name="143.ReorderList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="143.ReorderList" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -92,12 +100,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,7 +117,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="21.MergeTwoSortedLists" />
+      <module name="143.ReorderList" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -128,11 +131,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bedf53fc-2ee3-4d31-a8ba-25547bb9231d" name="Default Changelist" comment="" />
-      <created>1587416719052</created>
+      <changelist id="51c23fb4-8442-4b4a-8244-cb08c79d3ee0" name="Default Changelist" comment="" />
+      <created>1587419102744</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1587416719052</updated>
+      <updated>1587419102744</updated>
     </task>
     <servers />
   </component>
@@ -145,7 +148,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13233191" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -175,10 +178,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/MergeTwoSortedList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/ReorderList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="-273">
+          <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
         </state>
       </provider>
     </entry>
