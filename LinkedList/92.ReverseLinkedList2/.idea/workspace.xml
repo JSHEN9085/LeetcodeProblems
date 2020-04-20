@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="745a959a-f267-4630-88ab-90dd067912aa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../ReverseLinkedList2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseLinkedList2/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="faabb032-7226-47a2-b6c3-e8bca5aa1b6d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../328.OddEvenLinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../328.OddEvenLinkedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseLinkedList2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseLinkedList2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseLinkedList2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseLinkedList2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseLinkedList2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseLinkedList2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseLinkedList2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseLinkedList2/92.ReverseLinkedList2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseLinkedList2/src/com/jshen/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseLinkedList2/src/com/jshen/ReverseLinkedList.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,8 +22,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -27,10 +36,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jshen/OddEvenLinkedList.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jshen/ReverseLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            <state relative-caret-position="710">
+              <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -50,7 +59,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jshen/OddEvenLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/ReverseLinkedList.java" />
       </list>
     </option>
   </component>
@@ -62,7 +71,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="816" />
@@ -74,29 +83,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="328.OddEvenLinkedList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="328.OddEvenLinkedList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="328.OddEvenLinkedList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="328.OddEvenLinkedList" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="328.OddEvenLinkedList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="328.OddEvenLinkedList" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jshen" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -118,7 +106,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="328.OddEvenLinkedList" />
+      <module name="92.ReverseLinkedList2" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -132,18 +120,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="745a959a-f267-4630-88ab-90dd067912aa" name="Default Changelist" comment="" />
-      <created>1586965219247</created>
+      <changelist id="faabb032-7226-47a2-b6c3-e8bca5aa1b6d" name="Default Changelist" comment="" />
+      <created>1587244970471</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1586965219247</updated>
+      <updated>1587244970471</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="816" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13805436" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13876967" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -178,10 +166,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/OddEvenLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/ReverseLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="710">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
         </state>
       </provider>
     </entry>

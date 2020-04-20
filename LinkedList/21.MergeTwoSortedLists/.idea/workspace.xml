@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="faabb032-7226-47a2-b6c3-e8bca5aa1b6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/jshen/ReverseLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../82.RemoveDuplicatesFromSortedList2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../82.RemoveDuplicatesFromSortedList2/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="bedf53fc-2ee3-4d31-a8ba-25547bb9231d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../328.OddEvenLinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../328.OddEvenLinkedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseLinkedList2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseLinkedList2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseLinkedList2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseLinkedList2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseLinkedList2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseLinkedList2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseLinkedList2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseLinkedList2/92.ReverseLinkedList2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseLinkedList2/src/com/jshen/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseLinkedList2/src/com/jshen/ReverseLinkedList.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,10 +37,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jshen/ReverseLinkedList.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jshen/MergeTwoSortedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="788">
-              <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+            <state relative-caret-position="322">
+              <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -51,7 +60,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jshen/ReverseLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/MergeTwoSortedList.java" />
       </list>
     </option>
   </component>
@@ -73,22 +82,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ReverseLinkedList2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReverseLinkedList2" type="462c0819:PsiDirectoryNode" />
+              <item name="21.MergeTwoSortedLists" type="b2602c69:ProjectViewProjectNode" />
+              <item name="21.MergeTwoSortedLists" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ReverseLinkedList2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReverseLinkedList2" type="462c0819:PsiDirectoryNode" />
+              <item name="21.MergeTwoSortedLists" type="b2602c69:ProjectViewProjectNode" />
+              <item name="21.MergeTwoSortedLists" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ReverseLinkedList2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReverseLinkedList2" type="462c0819:PsiDirectoryNode" />
+              <item name="21.MergeTwoSortedLists" type="b2602c69:ProjectViewProjectNode" />
+              <item name="21.MergeTwoSortedLists" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -97,6 +105,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -114,7 +123,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="ReverseLinkedList2" />
+      <module name="21.MergeTwoSortedLists" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -128,11 +137,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="faabb032-7226-47a2-b6c3-e8bca5aa1b6d" name="Default Changelist" comment="" />
-      <created>1587244970471</created>
+      <changelist id="bedf53fc-2ee3-4d31-a8ba-25547bb9231d" name="Default Changelist" comment="" />
+      <created>1587416719052</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1587244970471</updated>
+      <updated>1587416719052</updated>
     </task>
     <servers />
   </component>
@@ -145,7 +154,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13733906" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13233191" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -175,10 +184,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/ReverseLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/MergeTwoSortedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="788">
-          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+        <state relative-caret-position="322">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
         </state>
       </provider>
     </entry>
