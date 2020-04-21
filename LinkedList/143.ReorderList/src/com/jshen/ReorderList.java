@@ -52,7 +52,7 @@ public class ReorderList {
         //and then reverse the 2nd half of the list
         ListNode startOfSecondHalf = slow.next;
         ListNode pointer = startOfSecondHalf;
-        slow.next = null;
+        slow.next = null; //cut the link between 1st and 2nd half example 1->2->3->4, make 2.next = null
         while(pointer != null){
             ListNode tem = pointer.next;
             pointer.next = slow;
