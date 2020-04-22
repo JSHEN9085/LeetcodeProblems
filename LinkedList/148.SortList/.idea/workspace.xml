@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52fdbe05-e894-4fee-9471-d854dffd7bf8" name="Default Changelist" comment="" />
+    <list default="true" id="78776302-1fd3-47b4-a20a-d590a8aad761" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../234.PalindromeLinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../234.PalindromeLinkedList/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,10 +27,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jshen/Palindrome.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jshen/SortList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+            <state relative-caret-position="140">
+              <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -48,7 +50,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jshen/Palindrome.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/SortList.java" />
       </list>
     </option>
   </component>
@@ -71,21 +73,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="234.PalindromeLinkedList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="234.PalindromeLinkedList" type="462c0819:PsiDirectoryNode" />
+              <item name="148.SortList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="148.SortList" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="234.PalindromeLinkedList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="234.PalindromeLinkedList" type="462c0819:PsiDirectoryNode" />
+              <item name="148.SortList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="148.SortList" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="234.PalindromeLinkedList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="234.PalindromeLinkedList" type="462c0819:PsiDirectoryNode" />
+              <item name="148.SortList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="148.SortList" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -94,11 +97,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -115,7 +114,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="234.PalindromeLinkedList" />
+      <module name="148.SortList" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -129,11 +128,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="52fdbe05-e894-4fee-9471-d854dffd7bf8" name="Default Changelist" comment="" />
-      <created>1587512285976</created>
+      <changelist id="78776302-1fd3-47b4-a20a-d590a8aad761" name="Default Changelist" comment="" />
+      <created>1587512918207</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1587512285976</updated>
+      <updated>1587512918207</updated>
     </task>
     <servers />
   </component>
@@ -146,7 +145,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12088698" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12660944" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -176,10 +175,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/Palindrome.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/SortList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        <state relative-caret-position="140">
+          <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
         </state>
       </provider>
     </entry>
