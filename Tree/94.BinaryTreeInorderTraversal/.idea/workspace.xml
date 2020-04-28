@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2266bab1-4c66-4fab-a1dd-eb60a9c21c9e" name="Default Changelist" comment="" />
+    <list default="true" id="2f72f250-d3b4-4a53-b509-c1a0346a8b3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/jshen/InorderTravel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../144.BinaryTreePreorderTraversal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../144.BinaryTreePreorderTraversal/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,10 +28,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jshen/PreorderTravel.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jshen/InorderTravel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+            <state relative-caret-position="559">
+              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -48,7 +51,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jshen/PreorderTravel.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/InorderTravel.java" />
       </list>
     </option>
   </component>
@@ -60,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -70,38 +73,31 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="144.BinaryTreePreorderTraversal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="144.BinaryTreePreorderTraversal" type="462c0819:PsiDirectoryNode" />
+              <item name="94.BinaryTreeInorderTraversal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="94.BinaryTreeInorderTraversal" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="144.BinaryTreePreorderTraversal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="144.BinaryTreePreorderTraversal" type="462c0819:PsiDirectoryNode" />
+              <item name="94.BinaryTreeInorderTraversal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="94.BinaryTreeInorderTraversal" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="144.BinaryTreePreorderTraversal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="144.BinaryTreePreorderTraversal" type="462c0819:PsiDirectoryNode" />
+              <item name="94.BinaryTreeInorderTraversal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="94.BinaryTreeInorderTraversal" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="144.BinaryTreePreorderTraversal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -118,7 +114,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="144.BinaryTreePreorderTraversal" />
+      <module name="94.BinaryTreeInorderTraversal" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -132,16 +128,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2266bab1-4c66-4fab-a1dd-eb60a9c21c9e" name="Default Changelist" comment="" />
-      <created>1587947778607</created>
+      <changelist id="2f72f250-d3b4-4a53-b509-c1a0346a8b3e" name="Default Changelist" comment="" />
+      <created>1588089943781</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1587947778607</updated>
+      <updated>1588089943781</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="814" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -149,7 +145,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.119456366" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12446352" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -179,10 +175,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/PreorderTravel.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/InorderTravel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        <state relative-caret-position="559">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
         </state>
       </provider>
     </entry>
