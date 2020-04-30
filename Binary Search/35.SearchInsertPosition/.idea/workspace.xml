@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="682dbf0d-fa0d-4712-921f-f6e792e93cd7" name="Default Changelist" comment="" />
+    <list default="true" id="ab49c5af-f12b-44e0-b198-e8dcd13a172d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/jshen/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tree/145.BinaryTreePostorderTraversal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tree/145.BinaryTreePostorderTraversal/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,17 +21,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jshen/PostorderTravel.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jshen/BinarySearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="568">
-              <caret line="23" column="95" selection-start-line="23" selection-start-column="95" selection-end-line="23" selection-end-column="95" />
+            <state relative-caret-position="53">
+              <caret line="4" selection-start-line="4" selection-end-line="21" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -48,7 +51,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jshen/PostorderTravel.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/BinarySearch.java" />
       </list>
     </option>
   </component>
@@ -60,9 +63,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="816" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -71,21 +75,22 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="145.BinaryTreePostorderTraversal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="145.BinaryTreePostorderTraversal" type="462c0819:PsiDirectoryNode" />
+              <item name="35.SearchInsertPosition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="35.SearchInsertPosition" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="145.BinaryTreePostorderTraversal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="145.BinaryTreePostorderTraversal" type="462c0819:PsiDirectoryNode" />
+              <item name="35.SearchInsertPosition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="35.SearchInsertPosition" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="145.BinaryTreePostorderTraversal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="145.BinaryTreePostorderTraversal" type="462c0819:PsiDirectoryNode" />
+              <item name="35.SearchInsertPosition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="35.SearchInsertPosition" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -93,11 +98,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,7 +115,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="145.BinaryTreePostorderTraversal" />
+      <module name="35.SearchInsertPosition" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -128,11 +129,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="682dbf0d-fa0d-4712-921f-f6e792e93cd7" name="Default Changelist" comment="" />
-      <created>1588189703401</created>
+      <changelist id="ab49c5af-f12b-44e0-b198-e8dcd13a172d" name="Default Changelist" comment="" />
+      <created>1588191463730</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1588189703401</updated>
+      <updated>1588191463730</updated>
     </task>
     <servers />
   </component>
@@ -145,7 +146,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1423462" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16452074" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -170,15 +171,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/jshen/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/PostorderTravel.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
-          <caret line="23" column="95" selection-start-line="23" selection-start-column="95" selection-end-line="23" selection-end-column="95" />
+        <state relative-caret-position="53">
+          <caret line="4" selection-start-line="4" selection-end-line="21" selection-end-column="19" />
         </state>
       </provider>
     </entry>
