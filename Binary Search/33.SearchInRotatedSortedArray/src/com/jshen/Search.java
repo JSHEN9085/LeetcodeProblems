@@ -17,7 +17,7 @@ public class Search {
         } //after this loop start(index) is the index of the rotation point
 
         int left = 0;
-        int right = 
+        int right =
     }
 
 
