@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9dcfbae4-5d29-4d08-9759-01347dc7705a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c5f98d68-acc6-4b25-a4a2-929e052043e0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../153.FindMinimuminRotatedSortedArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../153.FindMinimuminRotatedSortedArray/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../81.SearchinRotatedSortedArrayII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../81.SearchinRotatedSortedArrayII/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/FindMin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="18" column="175" selection-start-line="18" selection-start-column="175" selection-end-line="18" selection-end-column="175" />
+            <state relative-caret-position="96">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -62,10 +63,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="825" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -77,17 +77,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="153.FindMinimuminRotatedSortedArray" type="b2602c69:ProjectViewProjectNode" />
-              <item name="153.FindMinimuminRotatedSortedArray" type="462c0819:PsiDirectoryNode" />
+              <item name="154.FindMinimuminRotatedSortedArrayII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="154.FindMinimuminRotatedSortedArrayII" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="153.FindMinimuminRotatedSortedArray" type="b2602c69:ProjectViewProjectNode" />
-              <item name="153.FindMinimuminRotatedSortedArray" type="462c0819:PsiDirectoryNode" />
+              <item name="154.FindMinimuminRotatedSortedArrayII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="154.FindMinimuminRotatedSortedArrayII" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="153.FindMinimuminRotatedSortedArray" type="b2602c69:ProjectViewProjectNode" />
-              <item name="153.FindMinimuminRotatedSortedArray" type="462c0819:PsiDirectoryNode" />
+              <item name="154.FindMinimuminRotatedSortedArrayII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="154.FindMinimuminRotatedSortedArrayII" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -98,10 +98,6 @@
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -118,7 +114,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="153.FindMinimuminRotatedSortedArray" />
+      <module name="154.FindMinimuminRotatedSortedArrayII" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -132,24 +128,28 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9dcfbae4-5d29-4d08-9759-01347dc7705a" name="Default Changelist" comment="" />
-      <created>1593799977287</created>
+      <changelist id="c5f98d68-acc6-4b25-a4a2-929e052043e0" name="Default Changelist" comment="" />
+      <created>1594220939642</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1593799977287</updated>
+      <updated>1594220939642</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="825" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14377682" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12017167" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -157,17 +157,14 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -180,8 +177,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jshen/FindMin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="18" column="175" selection-start-line="18" selection-start-column="175" selection-end-line="18" selection-end-column="175" />
+        <state relative-caret-position="96">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>
