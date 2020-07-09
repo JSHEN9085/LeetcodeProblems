@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5f98d68-acc6-4b25-a4a2-929e052043e0" name="Default Changelist" comment="" />
+    <list default="true" id="3e7349cb-7b6f-41d2-9016-a83ac40fd47f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../154.FindMinimuminRotatedSortedArrayII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../154.FindMinimuminRotatedSortedArrayII/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,10 +27,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jshen/FindMin.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jshen/FindPeakElement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+            <state relative-caret-position="32">
+              <caret line="1" column="110" selection-start-line="1" selection-start-column="110" selection-end-line="1" selection-end-column="110" />
             </state>
           </provider>
         </entry>
@@ -48,7 +50,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jshen/FindMin.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/FindPeakElement.java" />
       </list>
     </option>
   </component>
@@ -74,17 +76,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="154.FindMinimuminRotatedSortedArrayII" type="b2602c69:ProjectViewProjectNode" />
-              <item name="154.FindMinimuminRotatedSortedArrayII" type="462c0819:PsiDirectoryNode" />
+              <item name="162.FindPeakElement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="162.FindPeakElement" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="154.FindMinimuminRotatedSortedArrayII" type="b2602c69:ProjectViewProjectNode" />
-              <item name="154.FindMinimuminRotatedSortedArrayII" type="462c0819:PsiDirectoryNode" />
+              <item name="162.FindPeakElement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="162.FindPeakElement" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="154.FindMinimuminRotatedSortedArrayII" type="b2602c69:ProjectViewProjectNode" />
-              <item name="154.FindMinimuminRotatedSortedArrayII" type="462c0819:PsiDirectoryNode" />
+              <item name="162.FindPeakElement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="162.FindPeakElement" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -92,12 +94,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,7 +113,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="154.FindMinimuminRotatedSortedArrayII" />
+      <module name="162.FindPeakElement" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -128,11 +127,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c5f98d68-acc6-4b25-a4a2-929e052043e0" name="Default Changelist" comment="" />
-      <created>1594220939642</created>
+      <changelist id="3e7349cb-7b6f-41d2-9016-a83ac40fd47f" name="Default Changelist" comment="" />
+      <created>1594315438666</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1594220939642</updated>
+      <updated>1594315438666</updated>
     </task>
     <servers />
   </component>
@@ -145,7 +144,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12017167" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15593705" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -175,10 +174,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/FindMin.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/FindPeakElement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        <state relative-caret-position="32">
+          <caret line="1" column="110" selection-start-line="1" selection-start-column="110" selection-end-line="1" selection-end-column="110" />
         </state>
       </provider>
     </entry>
