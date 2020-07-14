@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e7349cb-7b6f-41d2-9016-a83ac40fd47f" name="Default Changelist" comment="" />
+    <list default="true" id="3bcc9528-da34-4f07-a3b5-880e3af4c7bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/jshen/GuessGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../162.FindPeakElement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../162.FindPeakElement/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,10 +28,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jshen/FindPeakElement.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jshen/GuessGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="1" column="110" selection-start-line="1" selection-start-column="110" selection-end-line="1" selection-end-column="110" />
+            <state relative-caret-position="373">
+              <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -48,7 +51,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jshen/FindPeakElement.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/GuessNum.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/GuessGame.java" />
       </list>
     </option>
   </component>
@@ -57,10 +61,11 @@
       <list>
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
         <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -70,21 +75,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="162.FindPeakElement" type="b2602c69:ProjectViewProjectNode" />
-              <item name="162.FindPeakElement" type="462c0819:PsiDirectoryNode" />
+              <item name="374.GuessNumberHigherorLower" type="b2602c69:ProjectViewProjectNode" />
+              <item name="374.GuessNumberHigherorLower" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="162.FindPeakElement" type="b2602c69:ProjectViewProjectNode" />
-              <item name="162.FindPeakElement" type="462c0819:PsiDirectoryNode" />
+              <item name="374.GuessNumberHigherorLower" type="b2602c69:ProjectViewProjectNode" />
+              <item name="374.GuessNumberHigherorLower" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="162.FindPeakElement" type="b2602c69:ProjectViewProjectNode" />
-              <item name="162.FindPeakElement" type="462c0819:PsiDirectoryNode" />
+              <item name="374.GuessNumberHigherorLower" type="b2602c69:ProjectViewProjectNode" />
+              <item name="374.GuessNumberHigherorLower" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -92,12 +99,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,7 +116,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="162.FindPeakElement" />
+      <module name="374.GuessNumberHigherorLower" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -128,16 +130,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3e7349cb-7b6f-41d2-9016-a83ac40fd47f" name="Default Changelist" comment="" />
-      <created>1594315438666</created>
+      <changelist id="3bcc9528-da34-4f07-a3b5-880e3af4c7bc" name="Default Changelist" comment="" />
+      <created>1594692017929</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1594315438666</updated>
+      <updated>1594692017929</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="825" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -145,7 +147,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15593705" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14520743" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -175,10 +177,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/FindPeakElement.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/GuessGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="1" column="110" selection-start-line="1" selection-start-column="110" selection-end-line="1" selection-end-column="110" />
+        <state relative-caret-position="373">
+          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
         </state>
       </provider>
     </entry>
