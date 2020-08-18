@@ -18,7 +18,7 @@ package com.jshen;
 // same rule, top-left conner, the middle, and the bottom-right conner
 
 public class NumberOfIslands {
-    //DFS O(MN) row * column
+    //DFS O(MN) row * column, space complexity
     public int numIslands(char[][] grid) {
         if(grid == null || grid.length == 0 || grid[0].length == 0){
             return 0;
