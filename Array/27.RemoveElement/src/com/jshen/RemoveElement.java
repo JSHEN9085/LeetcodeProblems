@@ -15,7 +15,7 @@ public class RemoveElement {
         }
         return len;
     }
-    
+
 
     //bad answer, this won't work, because for [0,1,2,2,3,0,4,2], val = 2, I will just remove the last 2(index 7) to the first 2(index 2)
 //    public int removeElement(int[] nums, int val) {
