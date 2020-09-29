@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af29d381-21f4-4a9b-960d-30689e03996a" name="Default Changelist" comment="">
+    <list default="true" id="019da33c-19d1-47f0-a621-7f018745e0f4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../189.RotateArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../189.RotateArray/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26.RemoveDuplicatesfromSortedArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../26.RemoveDuplicatesfromSortedArray/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27.RemoveElement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../27.RemoveElement/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../DFS/130.SurroundedRegions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DFS/130.SurroundedRegions/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../DFS/200.NumberOfIslands/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DFS/200.NumberOfIslands/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -29,10 +31,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jshen/RemoveElement.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jshen/Container.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            <state relative-caret-position="640">
+              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -52,22 +54,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jshen/RemoveElement.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/Container.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="822" />
+    <option name="height" value="821" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -75,23 +69,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="27.RemoveElement" type="b2602c69:ProjectViewProjectNode" />
-              <item name="27.RemoveElement" type="462c0819:PsiDirectoryNode" />
+              <item name="11.ContainerWithMostWater" type="b2602c69:ProjectViewProjectNode" />
+              <item name="11.ContainerWithMostWater" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="27.RemoveElement" type="b2602c69:ProjectViewProjectNode" />
-              <item name="27.RemoveElement" type="462c0819:PsiDirectoryNode" />
+              <item name="11.ContainerWithMostWater" type="b2602c69:ProjectViewProjectNode" />
+              <item name="11.ContainerWithMostWater" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="27.RemoveElement" type="b2602c69:ProjectViewProjectNode" />
-              <item name="27.RemoveElement" type="462c0819:PsiDirectoryNode" />
+              <item name="11.ContainerWithMostWater" type="b2602c69:ProjectViewProjectNode" />
+              <item name="11.ContainerWithMostWater" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -102,7 +96,6 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -120,7 +113,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="27.RemoveElement" />
+      <module name="11.ContainerWithMostWater" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -134,19 +127,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="af29d381-21f4-4a9b-960d-30689e03996a" name="Default Changelist" comment="" />
-      <created>1598379172187</created>
+      <changelist id="019da33c-19d1-47f0-a621-7f018745e0f4" name="Default Changelist" comment="" />
+      <created>1601304629292</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1598379172187</updated>
+      <updated>1601304629292</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="822" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14020029" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -181,10 +174,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/RemoveElement.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/Container.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        <state relative-caret-position="640">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
         </state>
       </provider>
     </entry>

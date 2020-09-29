@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9619accd-cd8a-4362-aaf4-c12069553be8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/jshen/Rotate.java" afterDir="false" />
-    </list>
+    <list default="true" id="9619accd-cd8a-4362-aaf4-c12069553be8" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +32,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/Rotate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="807">
+            <state relative-caret-position="2464">
               <caret line="77" column="135" selection-start-line="77" selection-start-column="135" selection-end-line="77" selection-end-column="135" />
             </state>
           </provider>
@@ -68,7 +66,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -103,6 +101,9 @@
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -147,7 +148,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="822" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -191,7 +192,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jshen/Rotate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="807">
+        <state relative-caret-position="2464">
           <caret line="77" column="135" selection-start-line="77" selection-start-column="135" selection-end-line="77" selection-end-column="135" />
         </state>
       </provider>
