@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecf5b8ff-20c4-41b7-8a4d-ad3c16f91d36" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="724f0981-d5f3-42f6-8196-47440e512177" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../55.JumpGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../55.JumpGame/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,10 +27,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jshen/JumpGame.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jshen/JumpGameII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state relative-caret-position="608">
+              <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -50,7 +50,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jshen/JumpGame.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/JumpGameII.java" />
       </list>
     </option>
   </component>
@@ -62,9 +62,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="823" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -76,17 +77,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="55.JumpGame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="55.JumpGame" type="462c0819:PsiDirectoryNode" />
+              <item name="45.JumpGameII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="45.JumpGameII" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="55.JumpGame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="55.JumpGame" type="462c0819:PsiDirectoryNode" />
+              <item name="45.JumpGameII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="45.JumpGameII" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="55.JumpGame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="55.JumpGame" type="462c0819:PsiDirectoryNode" />
+              <item name="45.JumpGameII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="45.JumpGameII" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -94,12 +95,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -116,7 +114,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="55.JumpGame" />
+      <module name="45.JumpGameII" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -130,16 +128,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ecf5b8ff-20c4-41b7-8a4d-ad3c16f91d36" name="Default Changelist" comment="" />
-      <created>1601477813435</created>
+      <changelist id="724f0981-d5f3-42f6-8196-47440e512177" name="Default Changelist" comment="" />
+      <created>1601492221447</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1601477813435</updated>
+      <updated>1601492221447</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="823" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="823" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -177,10 +175,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/JumpGame.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/JumpGameII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        <state relative-caret-position="608">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
         </state>
       </provider>
     </entry>
