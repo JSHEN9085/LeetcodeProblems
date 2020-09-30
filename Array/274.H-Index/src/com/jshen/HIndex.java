@@ -7,7 +7,7 @@ public class HIndex {
 //N papers have at least h citations each, and the other N − h papers have no more than h citations each.
 //Note: If there are several possible values for h, the maximum one is taken as the h-index.
 
-    //O(n) 
+    //O(n)
     public int hIndex(int[] citations){
         int n = citations.length;
 
