@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12cc01a0-5dbb-48d4-8335-490a1fa4321a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/jshen/Profit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jshen/Profit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../287.FindTheDuplicateNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../287.FindTheDuplicateNumber/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../287.FindTheDuplicateNumber/src/com/jshen/FindDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../287.FindTheDuplicateNumber/src/com/jshen/FindDuplicate.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,8 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -30,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/Profit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            <state relative-caret-position="221">
+              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -141,7 +140,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="821" extended-state="1" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16452074" />
@@ -181,8 +180,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jshen/Profit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        <state relative-caret-position="221">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
         </state>
       </provider>
     </entry>
