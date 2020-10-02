@@ -1,6 +1,7 @@
 package com.jshen;
 
 public class FindDuplicate {
+    //Floyd's cycle detection
     public int findDuplicate(int[] nums) {
         int s = nums[0];
         int f = nums[nums[0]];
@@ -19,5 +20,29 @@ public class FindDuplicate {
         } //Mathematics rule: Floyd's cycle detection，https://www.youtube.com/watch?v=LUm2ABqAs1w&t=1050s
         return s;
 
+    }
+
+
+    //binary search O(NlogN)
+//    public int findDuplicate(int[] nums){
+//        int l = 1;
+//        int r = nums.length - 1;
+//
+//        while(l < r){
+//            int mid = l + (r - l)/2;
+//            int count = 0;
+//
+//            for(int num : nums){
+//                if(num <= mid){
+//                    count++;
+//                }
+//            }
+//            if(count > mid){
+//                r = mid;
+//            } else {
+//                l = mid+1;
+//            }
+//        }
+//        return l;
     }
 }
