@@ -1,7 +1,7 @@
 package com.jshen;
 
 public class Intersection {
-    
+
     class ListNode{
         int val;
         ListNode next;
