@@ -6,7 +6,7 @@ public class IncreasingTriplet {
 
         int min = nums[0];
         int secondMin = Integer.MAX_VALUE;
-        
+
         for(int num : nums){
             if(num <= min){
                 min = num;
