@@ -9,7 +9,7 @@ public class Cycle {
     }
 
     public ListNode detectCycle(ListNode head){
-        if(head == null) return null;
+        if(head == null || head.next == null) return null;
 
         ListNode f = head;
         ListNode s = head;
