@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd640ff3-f3d8-47e1-962b-a8380c634b72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/jshen/ReverseEveryK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../24.SwapNodesInParis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../24.SwapNodesInParis/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dd640ff3-f3d8-47e1-962b-a8380c634b72" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -99,6 +96,9 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -138,7 +138,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="814" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />

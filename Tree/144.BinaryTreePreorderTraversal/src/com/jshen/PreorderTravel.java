@@ -12,6 +12,7 @@ public class PreorderTravel {
         TreeNode(int x) { val = x; }
     }
 
+    //iterative
     public List<Integer> preorderTraversal(TreeNode root) {
         List<Integer> result = new LinkedList<>();
         if(root == null) return result;
@@ -32,4 +33,19 @@ public class PreorderTravel {
         }
         return result;
     }
+
+    //recursive
+//    public List<Integer> preorderTraversal(TreeNode root){
+//        List<Integer> result = new LinkedList<>();
+//
+//        helper(root, result);
+//        return result;
+//    }
+//
+//    private void helper(TreeNode node, List<Integer> list){
+//        if(node == null) return;
+//        list.add(node.val);
+//        helper(node.left, list);
+//        helper(node.right, list);
+//    }
 }
