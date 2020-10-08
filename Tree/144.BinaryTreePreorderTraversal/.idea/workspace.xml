@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2266bab1-4c66-4fab-a1dd-eb60a9c21c9e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../LinkedList/25.ReverseNodesInK-Group/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedList/25.ReverseNodesInK-Group/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jshen/PreorderTravel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jshen/PreorderTravel.java" afterDir="false" />
-    </list>
+    <list default="true" id="2266bab1-4c66-4fab-a1dd-eb60a9c21c9e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +27,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/PreorderTravel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
+            <state relative-caret-position="185">
               <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
@@ -63,7 +60,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="823" />
@@ -146,7 +143,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="823" extended-state="1" />
+    <frame x="0" y="23" width="1440" height="823" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12088698" />
@@ -186,7 +183,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jshen/PreorderTravel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
+        <state relative-caret-position="185">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
