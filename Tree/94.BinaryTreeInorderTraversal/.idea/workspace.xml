@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f72f250-d3b4-4a53-b509-c1a0346a8b3e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../102.BinaryTreeLevelOrderTraversal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../102.BinaryTreeLevelOrderTraversal/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../102.BinaryTreeLevelOrderTraversal/src/com/jshen/LevelOrderTravel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../102.BinaryTreeLevelOrderTraversal/src/com/jshen/LevelOrderTravel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jshen/InorderTravel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jshen/InorderTravel.java" afterDir="false" />
-    </list>
+    <list default="true" id="2f72f250-d3b4-4a53-b509-c1a0346a8b3e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/InorderTravel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
-              <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+            <state relative-caret-position="1120">
+              <caret line="35" selection-start-line="35" selection-end-line="46" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -64,7 +60,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="822" />
@@ -183,8 +179,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jshen/InorderTravel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+        <state relative-caret-position="1120">
+          <caret line="35" selection-start-line="35" selection-end-line="46" selection-end-column="5" />
         </state>
       </provider>
     </entry>
