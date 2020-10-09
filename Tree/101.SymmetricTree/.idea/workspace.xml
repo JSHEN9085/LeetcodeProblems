@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80b06df2-fe2e-41b1-a62a-88e73137d63d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Tree/145.BinaryTreePostorderTraversal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tree/145.BinaryTreePostorderTraversal/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f64c1a9f-cfd5-4b35-916e-3905d510b4ea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../100.SameTree/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../100.SameTree/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../100.SameTree/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../100.SameTree/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../100.SameTree/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../100.SameTree/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../100.SameTree/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../100.SameTree/100.SameTree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../100.SameTree/src/com/jshen/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../100.SameTree/src/com/jshen/SameTree.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,17 +29,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            <state relative-caret-position="160">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jshen/SameTree.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jshen/SymmetricTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="39" selection-start-line="39" selection-end-line="47" selection-end-column="5" />
+            <state relative-caret-position="396">
+              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -45,12 +54,13 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jshen/SameTree.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/SymmetricTree.java" />
       </list>
     </option>
   </component>
@@ -63,8 +73,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="821" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -78,17 +89,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="100.SameTree" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100.SameTree" type="462c0819:PsiDirectoryNode" />
+              <item name="101.SymmetricTree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="101.SymmetricTree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="100.SameTree" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100.SameTree" type="462c0819:PsiDirectoryNode" />
+              <item name="101.SymmetricTree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="101.SymmetricTree" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="100.SameTree" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100.SameTree" type="462c0819:PsiDirectoryNode" />
+              <item name="101.SymmetricTree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="101.SymmetricTree" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -113,7 +124,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="100.SameTree" />
+      <module name="101.SymmetricTree" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -127,11 +138,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="80b06df2-fe2e-41b1-a62a-88e73137d63d" name="Default Changelist" comment="" />
-      <created>1602194072859</created>
+      <changelist id="f64c1a9f-cfd5-4b35-916e-3905d510b4ea" name="Default Changelist" comment="" />
+      <created>1602201021050</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602194072859</updated>
+      <updated>1602201021050</updated>
     </task>
     <servers />
   </component>
@@ -139,16 +150,13 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16738197" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1423462" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -156,28 +164,31 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/jshen/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="160">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/SameTree.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/SymmetricTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="39" selection-start-line="39" selection-end-line="47" selection-end-column="5" />
+        <state relative-caret-position="396">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
         </state>
       </provider>
     </entry>
