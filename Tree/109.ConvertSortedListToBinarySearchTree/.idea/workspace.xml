@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec976e65-22ed-454d-9b1f-b9391b89b707" name="Default Changelist" comment="" />
+    <list default="true" id="d53a50b5-1572-4531-b207-f4cddf3b56b1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../108.ConvertSortedArrayToBinarySearchTree/src/com/jshen/ArrayToTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jshen/LinkedListToTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../236.LowestCommonAncestorOfABinaryTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../236.LowestCommonAncestorOfABinaryTree/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,10 +29,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jshen/LCA.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jshen/LinkedListToTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
+            <state relative-caret-position="111">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -48,7 +52,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jshen/LCA.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/LinkedListToTree.java" />
       </list>
     </option>
   </component>
@@ -60,10 +64,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="822" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -75,17 +78,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="236.LowestCommonAncestorOfABinaryTree" type="b2602c69:ProjectViewProjectNode" />
-              <item name="236.LowestCommonAncestorOfABinaryTree" type="462c0819:PsiDirectoryNode" />
+              <item name="109.ConvertSortedListToBinarySearchTree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="109.ConvertSortedListToBinarySearchTree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="236.LowestCommonAncestorOfABinaryTree" type="b2602c69:ProjectViewProjectNode" />
-              <item name="236.LowestCommonAncestorOfABinaryTree" type="462c0819:PsiDirectoryNode" />
+              <item name="109.ConvertSortedListToBinarySearchTree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="109.ConvertSortedListToBinarySearchTree" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="236.LowestCommonAncestorOfABinaryTree" type="b2602c69:ProjectViewProjectNode" />
-              <item name="236.LowestCommonAncestorOfABinaryTree" type="462c0819:PsiDirectoryNode" />
+              <item name="109.ConvertSortedListToBinarySearchTree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="109.ConvertSortedListToBinarySearchTree" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -96,9 +99,6 @@
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -115,7 +115,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="236.LowestCommonAncestorOfABinaryTree" />
+      <module name="109.ConvertSortedListToBinarySearchTree" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -129,16 +129,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ec976e65-22ed-454d-9b1f-b9391b89b707" name="Default Changelist" comment="" />
-      <created>1602604671315</created>
+      <changelist id="d53a50b5-1572-4531-b207-f4cddf3b56b1" name="Default Changelist" comment="" />
+      <created>1602724117740</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602604671315</updated>
+      <updated>1602724117740</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="822" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -146,7 +146,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16666667" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13233191" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -176,10 +176,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/LCA.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/LinkedListToTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
+        <state relative-caret-position="111">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
