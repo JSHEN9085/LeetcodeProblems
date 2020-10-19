@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3abd0457-9712-4ca0-a105-45a42da30938" name="Default Changelist" comment="" />
+    <list default="true" id="0a3af26b-f55b-412e-8db6-cccfeb754981" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/jshen/NextNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../116.PopulatingNextRightPointersInEachNode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../116.PopulatingNextRightPointersInEachNode/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,17 +21,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            <state relative-caret-position="64">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jshen/NextTreeNode.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jshen/NextNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="928">
-              <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+            <state relative-caret-position="234">
+              <caret line="16" selection-start-line="16" selection-end-line="40" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -48,7 +51,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jshen/NextTreeNode.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/NextNode.java" />
       </list>
     </option>
   </component>
@@ -60,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -70,23 +73,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="116.PopulatingNextRightPointersInEachNode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="116.PopulatingNextRightPointersInEachNode" type="462c0819:PsiDirectoryNode" />
+              <item name="117.PopulatingNextRightPointersInEachNodeII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="117.PopulatingNextRightPointersInEachNodeII" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="116.PopulatingNextRightPointersInEachNode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="116.PopulatingNextRightPointersInEachNode" type="462c0819:PsiDirectoryNode" />
+              <item name="117.PopulatingNextRightPointersInEachNodeII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="117.PopulatingNextRightPointersInEachNodeII" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="116.PopulatingNextRightPointersInEachNode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="116.PopulatingNextRightPointersInEachNode" type="462c0819:PsiDirectoryNode" />
+              <item name="117.PopulatingNextRightPointersInEachNodeII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="117.PopulatingNextRightPointersInEachNodeII" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -94,10 +96,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,7 +114,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="116.PopulatingNextRightPointersInEachNode" />
+      <module name="117.PopulatingNextRightPointersInEachNodeII" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -128,11 +128,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3abd0457-9712-4ca0-a105-45a42da30938" name="Default Changelist" comment="" />
-      <created>1603073953477</created>
+      <changelist id="0a3af26b-f55b-412e-8db6-cccfeb754981" name="Default Changelist" comment="" />
+      <created>1603074855943</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1603073953477</updated>
+      <updated>1603074855943</updated>
     </task>
     <servers />
   </component>
@@ -145,7 +145,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12804006" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14806867" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -170,15 +170,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/jshen/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="64">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/NextTreeNode.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/NextNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="928">
-          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        <state relative-caret-position="234">
+          <caret line="16" selection-start-line="16" selection-end-line="40" selection-end-column="24" />
         </state>
       </provider>
     </entry>
