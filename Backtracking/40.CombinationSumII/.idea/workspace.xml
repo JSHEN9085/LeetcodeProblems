@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4366d8f-9c7e-4192-b8bb-7761dc688611" name="Default Changelist" comment="" />
+    <list default="true" id="053d009f-d5c7-4e89-88df-92b365b948bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/jshen/CombinationSumII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../39.CombinationSum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../39.CombinationSum/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,10 +28,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jshen/CombinationSum.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jshen/CombinationSumII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+            <state relative-caret-position="162">
+              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -48,7 +51,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jshen/CombinationSum.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/CombinationSumII.java" />
       </list>
     </option>
   </component>
@@ -60,10 +63,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="823" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -77,17 +79,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="39.CombinationSum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="39.CombinationSum" type="462c0819:PsiDirectoryNode" />
+              <item name="40.CombinationSumII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="40.CombinationSumII" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="39.CombinationSum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="39.CombinationSum" type="462c0819:PsiDirectoryNode" />
+              <item name="40.CombinationSumII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="40.CombinationSumII" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="39.CombinationSum" type="b2602c69:ProjectViewProjectNode" />
-              <item name="39.CombinationSum" type="462c0819:PsiDirectoryNode" />
+              <item name="40.CombinationSumII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="40.CombinationSumII" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -96,9 +98,6 @@
         </subPane>
       </pane>
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -115,7 +114,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="39.CombinationSum" />
+      <module name="40.CombinationSumII" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -129,16 +128,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b4366d8f-9c7e-4192-b8bb-7761dc688611" name="Default Changelist" comment="" />
-      <created>1603314500179</created>
+      <changelist id="053d009f-d5c7-4e89-88df-92b365b948bd" name="Default Changelist" comment="" />
+      <created>1603330229801</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1603314500179</updated>
+      <updated>1603330229801</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="823" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -146,7 +145,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13233191" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15736766" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -176,10 +175,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/CombinationSum.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/CombinationSumII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        <state relative-caret-position="162">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
         </state>
       </provider>
     </entry>
