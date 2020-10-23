@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cde2b83a-01ec-4249-954f-30259873a63f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../39.CombinationSum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../39.CombinationSum/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../39.CombinationSum/src/com/jshen/CombinationSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../39.CombinationSum/src/com/jshen/CombinationSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../40.CombinationSumII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../40.CombinationSumII/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../40.CombinationSumII/src/com/jshen/CombinationSumII.java" beforeDir="false" afterPath="$PROJECT_DIR$/../40.CombinationSumII/src/com/jshen/CombinationSumII.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,7 +29,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/SubsetII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-232">
+            <state relative-caret-position="224">
               <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
             </state>
           </provider>
@@ -65,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="822" />
@@ -144,8 +141,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="821" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16094421" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -184,7 +180,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jshen/SubsetII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-232">
+        <state relative-caret-position="224">
           <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
         </state>
       </provider>
