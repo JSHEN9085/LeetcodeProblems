@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ebfbce4-3769-497e-9401-7b01ce8d4cad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7001115f-1066-41e2-91be-2d9bf37deb4f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/jshen/PermutationsII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../46.Permutations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../46.Permutations/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,10 +28,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jshen/Permutations.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jshen/PermutationsII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="8" selection-start-line="8" selection-end-line="29" selection-end-column="5" />
+            <state relative-caret-position="560">
+              <caret line="25" column="82" selection-start-line="25" selection-start-column="82" selection-end-line="25" selection-end-column="82" />
             </state>
           </provider>
         </entry>
@@ -50,7 +51,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jshen/Permutations.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/PermutationsII.java" />
       </list>
     </option>
   </component>
@@ -62,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -73,21 +74,22 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="46.Permutations" type="b2602c69:ProjectViewProjectNode" />
-              <item name="46.Permutations" type="462c0819:PsiDirectoryNode" />
+              <item name="47.PermutationsII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="47.PermutationsII" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="46.Permutations" type="b2602c69:ProjectViewProjectNode" />
-              <item name="46.Permutations" type="462c0819:PsiDirectoryNode" />
+              <item name="47.PermutationsII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="47.PermutationsII" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="46.Permutations" type="b2602c69:ProjectViewProjectNode" />
-              <item name="46.Permutations" type="462c0819:PsiDirectoryNode" />
+              <item name="47.PermutationsII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="47.PermutationsII" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -95,11 +97,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -116,7 +114,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="46.Permutations" />
+      <module name="47.PermutationsII" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -130,16 +128,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9ebfbce4-3769-497e-9401-7b01ce8d4cad" name="Default Changelist" comment="" />
-      <created>1603571910152</created>
+      <changelist id="7001115f-1066-41e2-91be-2d9bf37deb4f" name="Default Changelist" comment="" />
+      <created>1603746238859</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1603571910152</updated>
+      <updated>1603746238859</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="822" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -147,7 +145,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13233191" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17596567" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -177,10 +175,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/Permutations.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/PermutationsII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="8" selection-start-line="8" selection-end-line="29" selection-end-column="5" />
+        <state relative-caret-position="560">
+          <caret line="25" column="82" selection-start-line="25" selection-start-column="82" selection-end-line="25" selection-end-column="82" />
         </state>
       </provider>
     </entry>
