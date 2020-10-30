@@ -7,16 +7,18 @@ import java.util.List;
 public class CombinationSumIV {
 
     public int combinationSum4(int[] nums, int target) {
+        int[] combo = new int[target + 1];
+        combo[0] = 1;
 
+        for(int i = 1; i < combo.length; i++){
+            for(int j = 0; j < nums.length; j++){
+                if(i - nums[j] >= 0){
+                    combo[i] += combo[i - nums[j]];
+                }
+            }
+        }
+        return combo[target];
     }
-
-
-
-
-
-
-
-
 
     //DFS, but O(n^n) exceed time limit
 //    public int count;
