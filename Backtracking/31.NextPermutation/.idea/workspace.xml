@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b90279fc-773e-4c4a-aa4f-468e7c811342" name="Default Changelist" comment="">
+    <list default="true" id="2c425b3a-d84f-4b0d-8322-54437166ddc0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/jshen/NextPermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../377.CombinationSumIV/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../377.CombinationSumIV/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../47.PermutationsII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../47.PermutationsII/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,17 +22,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            <state relative-caret-position="192">
+              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jshen/CombinationSumIV.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jshen/NextPermutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="-465">
+              <caret line="3" selection-start-line="3" selection-end-line="34" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -50,7 +52,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jshen/CombinationSumIV.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/NextPermutation.java" />
       </list>
     </option>
   </component>
@@ -62,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -78,28 +80,29 @@
         <subPane>
           <expand>
             <path>
-              <item name="377.CombinationSumIV" type="b2602c69:ProjectViewProjectNode" />
-              <item name="377.CombinationSumIV" type="462c0819:PsiDirectoryNode" />
+              <item name="31.NextPermutation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="31.NextPermutation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="377.CombinationSumIV" type="b2602c69:ProjectViewProjectNode" />
-              <item name="377.CombinationSumIV" type="462c0819:PsiDirectoryNode" />
+              <item name="31.NextPermutation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="31.NextPermutation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="377.CombinationSumIV" type="b2602c69:ProjectViewProjectNode" />
-              <item name="377.CombinationSumIV" type="462c0819:PsiDirectoryNode" />
+              <item name="31.NextPermutation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="31.NextPermutation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="31.NextPermutation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -116,7 +119,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="377.CombinationSumIV" />
+      <module name="31.NextPermutation" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -130,25 +133,28 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b90279fc-773e-4c4a-aa4f-468e7c811342" name="Default Changelist" comment="" />
-      <created>1603420658804</created>
+      <changelist id="2c425b3a-d84f-4b0d-8322-54437166ddc0" name="Default Changelist" comment="" />
+      <created>1604166301566</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1603420658804</updated>
+      <updated>1604166301566</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="822" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15236051" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12088698" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -156,31 +162,28 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/jshen/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="192">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/CombinationSumIV.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/NextPermutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="-465">
+          <caret line="3" selection-start-line="3" selection-end-line="34" selection-end-column="5" />
         </state>
       </provider>
     </entry>
