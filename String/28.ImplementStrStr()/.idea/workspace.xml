@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9f47a12-01d9-4b88-a2d2-94fd1cf95687" name="Default Changelist" comment="" />
+    <list default="true" id="e86810d4-0acd-4e4a-b089-0f18332abbb6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/jshen/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Backtracking/17.LetterCombinationsOfAPhoneNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Backtracking/17.LetterCombinationsOfAPhoneNumber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Backtracking/39.CombinationSum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Backtracking/39.CombinationSum/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,10 +29,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jshen/LetterToNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jshen/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            <state relative-caret-position="472">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -48,7 +52,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jshen/LetterToNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/Solution.java" />
       </list>
     </option>
   </component>
@@ -60,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="822" />
@@ -71,23 +75,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="17.LetterCombinationsOfAPhoneNumber" type="b2602c69:ProjectViewProjectNode" />
-              <item name="17.LetterCombinationsOfAPhoneNumber" type="462c0819:PsiDirectoryNode" />
+              <item name="28.ImplementStrStr()" type="b2602c69:ProjectViewProjectNode" />
+              <item name="28.ImplementStrStr()" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="17.LetterCombinationsOfAPhoneNumber" type="b2602c69:ProjectViewProjectNode" />
-              <item name="17.LetterCombinationsOfAPhoneNumber" type="462c0819:PsiDirectoryNode" />
+              <item name="28.ImplementStrStr()" type="b2602c69:ProjectViewProjectNode" />
+              <item name="28.ImplementStrStr()" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="17.LetterCombinationsOfAPhoneNumber" type="b2602c69:ProjectViewProjectNode" />
-              <item name="17.LetterCombinationsOfAPhoneNumber" type="462c0819:PsiDirectoryNode" />
+              <item name="28.ImplementStrStr()" type="b2602c69:ProjectViewProjectNode" />
+              <item name="28.ImplementStrStr()" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -95,10 +97,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -115,7 +116,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="17.LetterCombinationsOfAPhoneNumber" />
+      <module name="28.ImplementStrStr()" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -129,11 +130,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d9f47a12-01d9-4b88-a2d2-94fd1cf95687" name="Default Changelist" comment="" />
-      <created>1604191752668</created>
+      <changelist id="e86810d4-0acd-4e4a-b089-0f18332abbb6" name="Default Changelist" comment="" />
+      <created>1604258151758</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1604191752668</updated>
+      <updated>1604258151758</updated>
     </task>
     <servers />
   </component>
@@ -146,7 +147,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13447782" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13662376" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -176,10 +177,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/LetterToNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        <state relative-caret-position="472">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
