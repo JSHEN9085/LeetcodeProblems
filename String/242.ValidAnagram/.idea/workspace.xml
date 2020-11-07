@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3076562-de6c-45f1-be1b-d61bcc1dd03d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/jshen/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../290.WordPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../290.WordPattern/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e3076562-de6c-45f1-be1b-d61bcc1dd03d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -99,6 +96,9 @@
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -143,7 +143,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="823" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -159,7 +159,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32891566" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
