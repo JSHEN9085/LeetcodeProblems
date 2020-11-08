@@ -1,9 +1,6 @@
 package com.jshen;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.List;
+import java.util.*;
 
 public class Solution {
 
@@ -33,6 +30,31 @@ public class Solution {
 //    }
 
     public List<List<String>> groupAnagrams(String[] strs){
-        
+        if(strs.length == 0) return new ArrayList<>();
+
+        HashMap<String, List<String>> map = new HashMap<>();
+        for(String s : strs){
+            int[] count = new int[128];
+            for(char c : s.toCharArray()){
+                count[c]++;
+            }
+
+            StringBuilder sb = new StringBuilder();
+            for(int i = 97; i < 128; i++){
+                if(count[i] != 0){
+                    sb.append((char) i);
+                    sb.append(count[i]);
+                }
+            }
+            String key = sb.toString();
+            if(map.containsKey(key)){
+                map.get(key).add(s);
+            } else {
+                List<String> list = new ArrayList<>();
+                list.add(s);
+                map.put(key, list);
+            }
+        }
+        return new ArrayList<>(map.values());
     }
 }
