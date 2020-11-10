@@ -56,7 +56,7 @@ public class CombinationSumII {
         dfs(candidates, res, combine, index + 1, target, false);
 
         //choose current #
-        if(index >= 1 && candidates[index] == candidates[index - 1] && !chosen) return;
+        if(index >= 1 && candidates[index] == candidates[index - 1] && chosen == false) return;
         combine.add(candidates[index]);
         dfs(candidates, res, combine, index + 1, target - candidates[index], true);
         combine.remove(combine.size() - 1);
