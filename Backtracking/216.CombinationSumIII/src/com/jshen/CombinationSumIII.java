@@ -44,7 +44,7 @@ public class CombinationSumIII {
             return;
         }
 
-        if(start > 9 || combo.size() > k) return;
+        if(start > 9 || combo.size() > k || n < 0) return;
 
         //not choose i
         dfs(k, n, start + 1, res, combo);
