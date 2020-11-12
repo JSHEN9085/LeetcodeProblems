@@ -21,8 +21,8 @@ public class CombinationSumIII {
 //        if(combine.size() == k && n == 0){
 //            res.add(new ArrayList<Integer>(combine));
 //            return;
-//
 //        }
+//        if(combine.size() > k) return;
 //
 //        for(int i = start; i <= 9; i++){
 //            combine.add(i);
