@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ebfbce4-3769-497e-9401-7b01ce8d4cad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../47.PermutationsII/src/com/jshen/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../39.CombinationSum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../39.CombinationSum/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../47.PermutationsII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../47.PermutationsII/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,7 +38,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-82">
+            <state relative-caret-position="-136">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
@@ -68,7 +67,7 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="822" />
+    <option name="height" value="823" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -76,8 +75,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -100,6 +97,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,9 +144,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="822" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13519314" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13662376" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -191,7 +189,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jshen/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-82">
+        <state relative-caret-position="-136">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
