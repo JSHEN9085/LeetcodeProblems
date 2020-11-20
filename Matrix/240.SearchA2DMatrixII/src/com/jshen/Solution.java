@@ -4,7 +4,7 @@ public class Solution {
     //O(n + m)
     public boolean searchMatrix(int[][] matrix, int target) {
         if(matrix.length == 0 || matrix[0].length == 0 || matrix == null) return false;
-        
+
         int row = matrix.length - 1;
         int col = 0;
         int colEnd = matrix[0].length;

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1971b452-2042-485b-9a87-e2b587be177a" name="Default Changelist" comment="" />
+    <list default="true" id="b3c1a072-581d-43f4-9a94-abd02e9cbb4f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/jshen/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../240.SearchA2DMatrixII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../240.SearchA2DMatrixII/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../240.SearchA2DMatrixII/src/com/jshen/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../240.SearchA2DMatrixII/src/com/jshen/Solution.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            <state relative-caret-position="352">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -27,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            <state relative-caret-position="-64">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -48,6 +52,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/com/jshen/Main.java" />
         <option value="$PROJECT_DIR$/src/com/jshen/Solution.java" />
       </list>
     </option>
@@ -71,21 +76,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="240.SearchA2DMatrixII" type="b2602c69:ProjectViewProjectNode" />
-              <item name="240.SearchA2DMatrixII" type="462c0819:PsiDirectoryNode" />
+              <item name="73.SetMatrixZeroes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="73.SetMatrixZeroes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="240.SearchA2DMatrixII" type="b2602c69:ProjectViewProjectNode" />
-              <item name="240.SearchA2DMatrixII" type="462c0819:PsiDirectoryNode" />
+              <item name="73.SetMatrixZeroes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="73.SetMatrixZeroes" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="240.SearchA2DMatrixII" type="b2602c69:ProjectViewProjectNode" />
-              <item name="240.SearchA2DMatrixII" type="462c0819:PsiDirectoryNode" />
+              <item name="73.SetMatrixZeroes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="73.SetMatrixZeroes" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -93,12 +99,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -115,7 +117,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="240.SearchA2DMatrixII" />
+      <module name="73.SetMatrixZeroes" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -123,17 +125,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1971b452-2042-485b-9a87-e2b587be177a" name="Default Changelist" comment="" />
-      <created>1605747700952</created>
+      <changelist id="b3c1a072-581d-43f4-9a94-abd02e9cbb4f" name="Default Changelist" comment="" />
+      <created>1605827560979</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605747700952</updated>
+      <updated>1605827560979</updated>
     </task>
     <servers />
   </component>
@@ -146,14 +153,15 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13376252" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14735337" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32968536" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -171,15 +179,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/jshen/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="352">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jshen/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state relative-caret-position="-64">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
