@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82e5d2af-9fa1-4b0f-ae77-607a2ea8e425" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../378.KthSmallestElementInASortedMatrix/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../378.KthSmallestElementInASortedMatrix/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jshen/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jshen/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../73.SetMatrixZeroes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../73.SetMatrixZeroes/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="82e5d2af-9fa1-4b0f-ae77-607a2ea8e425" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+            <state relative-caret-position="495">
+              <caret line="47" column="55" lean-forward="true" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -64,7 +60,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="823" />
@@ -143,7 +139,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="823" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1602289" />
@@ -183,8 +179,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jshen/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+        <state relative-caret-position="495">
+          <caret line="47" column="55" lean-forward="true" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="55" />
         </state>
       </provider>
     </entry>
