@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78ab5d24-9325-413e-b469-c64f4b67527f" name="Default Changelist" comment="" />
+    <list default="true" id="c167975a-aa11-41ad-8f74-655a30f24038" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/jshen/Majority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../169.MajorityElement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../169.MajorityElement/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/Majority.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="736">
+              <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -60,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -70,23 +73,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="169.MajorityElement" type="b2602c69:ProjectViewProjectNode" />
-              <item name="169.MajorityElement" type="462c0819:PsiDirectoryNode" />
+              <item name="229.MajorityElementII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="229.MajorityElementII" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="169.MajorityElement" type="b2602c69:ProjectViewProjectNode" />
-              <item name="169.MajorityElement" type="462c0819:PsiDirectoryNode" />
+              <item name="229.MajorityElementII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="229.MajorityElementII" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="169.MajorityElement" type="b2602c69:ProjectViewProjectNode" />
-              <item name="169.MajorityElement" type="462c0819:PsiDirectoryNode" />
+              <item name="229.MajorityElementII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="229.MajorityElementII" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -94,10 +95,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,7 +114,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="169.MajorityElement" />
+      <module name="229.MajorityElementII" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -128,16 +128,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="78ab5d24-9325-413e-b469-c64f4b67527f" name="Default Changelist" comment="" />
-      <created>1611276940087</created>
+      <changelist id="c167975a-aa11-41ad-8f74-655a30f24038" name="Default Changelist" comment="" />
+      <created>1611354975727</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1611276940087</updated>
+      <updated>1611354975727</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="822" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -145,7 +145,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16452074" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13376252" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -177,8 +177,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jshen/Majority.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="736">
+          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
         </state>
       </provider>
     </entry>
