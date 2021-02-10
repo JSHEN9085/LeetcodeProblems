@@ -27,7 +27,7 @@ public class MeetingRooms {
 //
 //        for(int i = 1; i < intervals.length; i++){
 //            if(intervals[i][0] >= pq.peek()[1]){
-//                pq.poll();
+//                pq.poll(); //retrieve and remove the head
 //            }
 //            pq.offer(intervals[i]);
 //        }
