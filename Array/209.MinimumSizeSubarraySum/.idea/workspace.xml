@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81932c63-83bb-4403-ae78-13c6086a8d8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/jshen/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../121.BestTimeToBuyAndSellStock/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../121.BestTimeToBuyAndSellStock/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../53.MaximumSubarray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../53.MaximumSubarray/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -99,6 +97,9 @@
       </pane>
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -138,7 +139,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="822" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
