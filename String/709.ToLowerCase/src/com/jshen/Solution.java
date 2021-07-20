@@ -12,6 +12,6 @@ public class Solution {
             }
         }
         return String.valueOf(c);
-        //return the content of char[] into a String
+        //return the content of char[] into a String //
     }
 }
