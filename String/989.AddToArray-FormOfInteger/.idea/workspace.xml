@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ba1f7bb-06fa-4d39-acc3-d09105f5cbf5" name="Default Changelist" comment="" />
+    <list default="true" id="6a30bebc-f565-4854-af19-eec6fc38cdcc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/jshen/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../415.AddStrings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../415.AddStrings/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+            <state relative-caret-position="134">
+              <caret line="9" selection-start-line="9" selection-end-line="21" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -60,10 +63,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="816" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -72,21 +74,22 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="415.AddStrings" type="b2602c69:ProjectViewProjectNode" />
-              <item name="415.AddStrings" type="462c0819:PsiDirectoryNode" />
+              <item name="989.AddToArray-FormOfInteger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="989.AddToArray-FormOfInteger" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="415.AddStrings" type="b2602c69:ProjectViewProjectNode" />
-              <item name="415.AddStrings" type="462c0819:PsiDirectoryNode" />
+              <item name="989.AddToArray-FormOfInteger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="989.AddToArray-FormOfInteger" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="415.AddStrings" type="b2602c69:ProjectViewProjectNode" />
-              <item name="415.AddStrings" type="462c0819:PsiDirectoryNode" />
+              <item name="989.AddToArray-FormOfInteger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="989.AddToArray-FormOfInteger" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -94,11 +97,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -115,7 +114,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="415.AddStrings" />
+      <module name="989.AddToArray-FormOfInteger" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -129,16 +128,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4ba1f7bb-06fa-4d39-acc3-d09105f5cbf5" name="Default Changelist" comment="" />
-      <created>1626921295799</created>
+      <changelist id="6a30bebc-f565-4854-af19-eec6fc38cdcc" name="Default Changelist" comment="" />
+      <created>1626924341222</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1626921295799</updated>
+      <updated>1626924341222</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="816" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -146,7 +145,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.115879826" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16094421" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -178,8 +177,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jshen/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        <state relative-caret-position="134">
+          <caret line="9" selection-start-line="9" selection-end-line="21" selection-end-column="19" />
         </state>
       </provider>
     </entry>
