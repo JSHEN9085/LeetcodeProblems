@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="139ba2df-af0a-4aa4-a42d-9171e8382035" name="Default Changelist" comment="" />
+    <list default="true" id="68bf5eca-97ff-435c-9ea4-c5f0a9464b21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/jshen/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../392.IsSubsequence/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../392.IsSubsequence/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="474">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -60,9 +63,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="816" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -70,22 +74,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="392.IsSubsequence" type="b2602c69:ProjectViewProjectNode" />
-              <item name="392.IsSubsequence" type="462c0819:PsiDirectoryNode" />
+              <item name="409.LongestPalindrome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="409.LongestPalindrome" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="392.IsSubsequence" type="b2602c69:ProjectViewProjectNode" />
-              <item name="392.IsSubsequence" type="462c0819:PsiDirectoryNode" />
+              <item name="409.LongestPalindrome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="409.LongestPalindrome" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="392.IsSubsequence" type="b2602c69:ProjectViewProjectNode" />
-              <item name="392.IsSubsequence" type="462c0819:PsiDirectoryNode" />
+              <item name="409.LongestPalindrome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="409.LongestPalindrome" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -94,10 +97,8 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,7 +115,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="392.IsSubsequence" />
+      <module name="409.LongestPalindrome" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -128,16 +129,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="139ba2df-af0a-4aa4-a42d-9171e8382035" name="Default Changelist" comment="" />
-      <created>1627004860493</created>
+      <changelist id="68bf5eca-97ff-435c-9ea4-c5f0a9464b21" name="Default Changelist" comment="" />
+      <created>1627006063335</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1627004860493</updated>
+      <updated>1627006063335</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="816" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -177,8 +178,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jshen/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="474">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
         </state>
       </provider>
     </entry>
