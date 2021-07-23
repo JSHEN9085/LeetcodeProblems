@@ -15,7 +15,7 @@ public class Solution {
                 res.addFirst( (num[i] + (k % 10) + carry) % 10 );
                 carry = (num[i] + (k % 10) + carry) / 10;
             } else {
-                res.add( ((k % 10) + carry) % 10 );
+                res.addFirst( ((k % 10) + carry) % 10 );
                 carry = ((k % 10) + carry) / 10;
             }
         }
